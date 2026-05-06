@@ -1,2 +1,3 @@
-# VZXAPH002_SAMOS-CORE3
-Repository for the python SAMOSCORE 3 component
+# AOS-SAMOS Core 3 module - python in ocean science
+This repository belongs to Aphile Vezi
+
